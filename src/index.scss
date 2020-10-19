@@ -28,6 +28,11 @@ code {
   left: 70%;
 }
 
+a {
+  color: $red;
+  font-weight: lighter;
+}
+
 h1 {
   color: $green;
   font-weight: lighter;
@@ -73,4 +78,8 @@ footer {
   font-size: 10px;
   text-align: center;
   color: #777f89;
+}
+
+.down {
+  float: bottom;
 }

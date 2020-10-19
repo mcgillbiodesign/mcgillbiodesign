@@ -1,6 +1,13 @@
 import React from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import sponsorship_package from '../img/sponsorship_package.pdf';
+import bioengineering from '../img/sponsors/bioengineering.png';
+import bookproject from '../img/sponsors/bookproject.png';
+import gutenberg from '../img/sponsors/gutenberg.png';
+import medicine from '../img/sponsors/medicine.png';
+import engineering from '../img/sponsors/engineering.png';
+import eus from '../img/sponsors/eus.png';
+import ssmu from '../img/sponsors/ssmu.png';
 
 export const Sponsors = () => (
   <Container fluid>
@@ -9,63 +16,70 @@ export const Sponsors = () => (
       <Row>
         <Col xs={6} md={3} className="column">
           <Card className="tile">
+            <Card.Img src={bioengineering} variant="top" alt="McGill University Department of Bioengineering"/>
             <Card.Body>
               <Card.Text>
-              <h5>McGill University Department of Bioengineering</h5>
+              <h5><a href="https://www.mcgill.ca/bioengineering/">McGill University Department of Bioengineering</a></h5>
               </Card.Text>
             </Card.Body>
           </Card>
         </Col>
         <Col xs={6} md={3} className="column">
           <Card className="tile">
+            <Card.Img src={bookproject} variant="top" alt="The MTL Book Project"/>
             <Card.Body>
-              <Card.Text>
-              <h5>The Book Project MTL</h5>
+              <Card.Text className="down">
+              <h5><a href="https://www.facebook.com/themtlbookproject/">The MTL Book Project</a></h5>
               </Card.Text>
             </Card.Body>
           </Card>
         </Col>
         <Col xs={6} md={3} className="column">
           <Card className="tile">
+            <Card.Img src={gutenberg} variant="top" alt="Gutenberg Certs"/>
             <Card.Body>
               <Card.Text>
-              <h5>Gutenberg Certs</h5>
+              <h5><a href="https://www.gutenbergcerts.com/">Gutenberg Certs</a></h5>
               </Card.Text>
             </Card.Body>
           </Card>
         </Col>
         <Col xs={6} md={3} className="column">
           <Card className="tile">
+            <Card.Img src={medicine} variant="top" alt="McGill University Faculty of Medicine"/>
             <Card.Body>
               <Card.Text>
-              <h5>McGill University Faculty of Medicine</h5>
+              <h5><a href="https://www.mcgill.ca/medicine/">McGill University Faculty of Medicine</a></h5>
               </Card.Text>
             </Card.Body>
           </Card>
         </Col>
         <Col xs={6} md={3} className="column">
           <Card className="tile">
+            <Card.Img src={engineering} variant="top" alt="McGill University Faculty of Engineering"/>
             <Card.Body>
               <Card.Text>
-              <h5>McGill University Faculty of Engineering</h5>
+              <h5><a href="https://www.mcgill.ca/engineering/">McGill University Faculty of Engineering</a></h5>
               </Card.Text>
             </Card.Body>
           </Card>
         </Col>
         <Col xs={6} md={3} className="column">
           <Card className="tile">
+            <Card.Img src={eus} variant="top" alt="EUS"/>
             <Card.Body>
               <Card.Text>
-              <h5>Engineering Undergraduate Society</h5>
+              <h5><a href="https://mcgilleus.ca/">Engineering Undergraduate Society</a></h5>
               </Card.Text>
             </Card.Body>
           </Card>
         </Col>
         <Col xs={6} md={3} className="column">
           <Card className="tile">
+            <Card.Img src={ssmu} variant="top" alt="SSMU"/>
             <Card.Body>
               <Card.Text>
-              <h5>Student Society of McGill Unviersity</h5>
+              <h5><a href="https://ssmu.ca/">Student Society of McGill Unviersity</a></h5>
               </Card.Text>
             </Card.Body>
           </Card>
