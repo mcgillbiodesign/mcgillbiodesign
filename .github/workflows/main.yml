@@ -15,9 +15,9 @@ jobs:
       - name: Run Tests
         env:
           CI: true
-        run: npm test
+        run: react-scripts test
       - name: Build
-        run: npm run build
+        run: react-scripts build
       - name: Archive Production Artifact
         uses: actions/upload-artifact@v2
         with:
