@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Official website for the McGill University BioDesign Team.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), with initial site development completed by [Victoria Pittard](https://github.com/victoriamp).
 
 ## Available Scripts
 
