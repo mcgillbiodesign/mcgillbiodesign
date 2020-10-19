@@ -10,7 +10,7 @@ import maascreen from "../img/icons/maascreen.png";
 export const Projects = () => (
   <Container fluid>
     <section id="current">
-      <h1><b>CURRENT PROJECTS</b></h1>
+      <h1>CURRENT PROJECTS</h1>
       <Row>
         <Col xs={12} md={6} lg={4} className="column">
           <Card className="tile">
@@ -75,7 +75,7 @@ export const Projects = () => (
     </section>
     <hr></hr>
     <section id="past">
-      <h1><b>PREVIOUS PROJECTS</b></h1>
+      <h1>PREVIOUS PROJECTS</h1>
       <Row>
         <Col xs={12} md={6} lg={4} className="column">
           <Card className="tile">
