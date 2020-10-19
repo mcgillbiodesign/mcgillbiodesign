@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/mcgillbiodesign/static/css/main.5ee951d3.chunk.css",
+    "main.js": "/mcgillbiodesign/static/js/main.3425d826.chunk.js",
+    "main.js.map": "/mcgillbiodesign/static/js/main.3425d826.chunk.js.map",
+    "runtime-main.js": "/mcgillbiodesign/static/js/runtime-main.2028b1e8.js",
+    "runtime-main.js.map": "/mcgillbiodesign/static/js/runtime-main.2028b1e8.js.map",
+    "static/js/2.655f539d.chunk.js": "/mcgillbiodesign/static/js/2.655f539d.chunk.js",
+    "static/js/2.655f539d.chunk.js.map": "/mcgillbiodesign/static/js/2.655f539d.chunk.js.map",
+    "index.html": "/mcgillbiodesign/index.html",
+    "precache-manifest.c1a96a32e33e8c3daa9c1c6ff2ababf0.js": "/mcgillbiodesign/precache-manifest.c1a96a32e33e8c3daa9c1c6ff2ababf0.js",
+    "service-worker.js": "/mcgillbiodesign/service-worker.js",
+    "static/css/main.5ee951d3.chunk.css.map": "/mcgillbiodesign/static/css/main.5ee951d3.chunk.css.map",
+    "static/js/2.655f539d.chunk.js.LICENSE.txt": "/mcgillbiodesign/static/js/2.655f539d.chunk.js.LICENSE.txt",
+    "static/media/andrew.png": "/mcgillbiodesign/static/media/andrew.9bc2835e.png",
+    "static/media/anne.png": "/mcgillbiodesign/static/media/anne.f7f8e7d5.png",
+    "static/media/bernadette.png": "/mcgillbiodesign/static/media/bernadette.7d42ac62.png",
+    "static/media/elizabeth.png": "/mcgillbiodesign/static/media/elizabeth.69b586fc.png",
+    "static/media/justin.png": "/mcgillbiodesign/static/media/justin.a1c89c75.png",
+    "static/media/kimia.png": "/mcgillbiodesign/static/media/kimia.3a5b0200.png",
+    "static/media/logo.png": "/mcgillbiodesign/static/media/logo.c2c123dc.png",
+    "static/media/megan.png": "/mcgillbiodesign/static/media/megan.5e905828.png",
+    "static/media/slide_1.jpg": "/mcgillbiodesign/static/media/slide_1.433529cf.jpg",
+    "static/media/slide_2.jpg": "/mcgillbiodesign/static/media/slide_2.664c6c5d.jpg",
+    "static/media/slide_3.jpg": "/mcgillbiodesign/static/media/slide_3.14321c2e.jpg",
+    "static/media/slide_4.jpg": "/mcgillbiodesign/static/media/slide_4.3e0d47be.jpg",
+    "static/media/slide_5.jpg": "/mcgillbiodesign/static/media/slide_5.8ef7d543.jpg",
+    "static/media/sponsorship_package.pdf": "/mcgillbiodesign/static/media/sponsorship_package.a83f5443.pdf",
+    "static/media/tirza.png": "/mcgillbiodesign/static/media/tirza.f82dcdc2.png",
+    "static/media/victoria.png": "/mcgillbiodesign/static/media/victoria.e3621aea.png",
+    "static/media/zoe.png": "/mcgillbiodesign/static/media/zoe.16bb2ac0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2028b1e8.js",
+    "static/js/2.655f539d.chunk.js",
+    "static/css/main.5ee951d3.chunk.css",
+    "static/js/main.3425d826.chunk.js"
+  ]
+}
