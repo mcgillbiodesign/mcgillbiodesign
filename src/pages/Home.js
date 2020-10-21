@@ -21,7 +21,7 @@ export const Home = () => (
         development opportunities through workshops and tutorials.
       </p>
       <hr></hr>
-      <h2>About Us:</h2>
+      <h2><b>About Us</b></h2>
     </Container>
     <Container fluid>
       <Row>
@@ -63,7 +63,7 @@ export const Home = () => (
               </Card.Title>
               <Card.Text>
                 Social and networking events bringing together diverse McGill students from
-                <b> three faculties</b> and <b>eight departments</b>. Events include movie nights,
+                <b> three faculties</b> and <b>twelve departments</b>. Events include movie nights,
                 picnics, and research inspired discussion groups.
               </Card.Text>
             </Card.Body>

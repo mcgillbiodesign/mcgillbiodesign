@@ -14,7 +14,7 @@ import linkedin from "../img/icons/exec-linkedin.png"
 
 export const Team = () => (
   <Container fluid>
-    <h1>MEET THE 2020-2021 MCGILL BIODESIGN TEAM!</h1>
+    <h1>Meet the 2020-2021 McGill BioDesign Team!</h1>
     <hr></hr>
     <Row>
       <Col xs={12} sm={6} lg={4} className="column">

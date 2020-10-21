@@ -12,7 +12,7 @@ import ssmu from '../img/sponsors/ssmu.png';
 export const Sponsors = () => (
   <Container fluid>
     <section>
-      <h1>Our Sponsors</h1>
+      <h1>Our Sponsors:</h1>
       <Row>
         <Col xs={6} md={3} className="column">
           <Card className="tile">
@@ -96,7 +96,7 @@ export const Sponsors = () => (
         sponsorship package for more information about sponsoring McGill
         BioDesign!
       </p>
-      <iframe src={sponsorship_package} width='100%' height='400px'/>
+      <iframe src={sponsorship_package}/>
     </section>
   </Container>
 );

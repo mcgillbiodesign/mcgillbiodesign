@@ -10,7 +10,7 @@ import maascreen from "../img/icons/maascreen.png";
 export const Projects = () => (
   <Container fluid>
     <section id="current">
-      <h1>CURRENT PROJECTS</h1>
+      <h1>Current Projects</h1>
       <Row>
         <Col xs={12} md={6} lg={4} className="column">
           <Card className="tile">
@@ -20,7 +20,7 @@ export const Projects = () => (
               </Card.Title>
               <Card.Subtitle>
                 <h3 className="title">Team Leads: Bernadette Ng &amp; Tirza Pang</h3>
-                <h3 className="title">Subteam Leads: TBD</h3>
+                <h3 className="title">Subteam Leads: Neil Banik, Zoe Goldberger, Frank Li, &amp; Mary Wan</h3>
               </Card.Subtitle>
               <Card.Text>
                 Our water filtration backpack aims to help communities with limited
@@ -40,7 +40,7 @@ export const Projects = () => (
               </Card.Title>
               <Card.Subtitle>
                 <h3 className="title">Team Leads: Anne Kyung, Kimia Shafighi, &amp; Megan Wai</h3>
-                <h3 className="title">Subteam Leads: TBD</h3>
+                <h3 className="title">Subteam Leads: Tahsin Abedi, Justin de Vries, Shagun Sachar, Hasan Sagheer, Victoria Pittard</h3>
               </Card.Subtitle>
               <Card.Text>
                 In order to address air pollution, we are designing a 3D printed lily
@@ -75,7 +75,7 @@ export const Projects = () => (
     </section>
     <hr></hr>
     <section id="past">
-      <h1>PREVIOUS PROJECTS</h1>
+      <h1>Past Projects</h1>
       <Row>
         <Col xs={12} md={6} lg={4} className="column">
           <Card className="tile">

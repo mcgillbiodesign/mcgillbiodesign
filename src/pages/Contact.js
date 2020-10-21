@@ -7,7 +7,7 @@ import instagram from "../img/icons/instagram.png";
 
 export const Contact = () => (
   <Container fluid>
-    <h1>STAY IN TOUCH:</h1>
+    <h1>Stay in touch!</h1>
     <hr></hr>
     <div>
       <h3><img src={email} height='30px'/> Email</h3>
